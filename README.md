@@ -1,4 +1,10 @@
-package osenv // import "github.com/NehanSikder/osenv"
+Installation:
+
+go get github.com/NehanSikder/osenv
+
+Usage: 
+
+import "github.com/NehanSikder/osenv"
 
 Package osenv follows the GO flag package pattern of letting users set a default
 value when getting values of environment variables It provides helper methods
